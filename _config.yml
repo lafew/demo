@@ -107,3 +107,7 @@ deploy:
   repo: https://github.com/lafew/demo.git
   branch: master
 
+
+netlify_cms:
+  config_file: netlify.yaml
+
